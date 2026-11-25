@@ -1,0 +1,13 @@
+# Generated account and transaction data
+accounts.dat
+transactions.txt
+
+# Compiled programs
+*.exe
+bank
+a.out
+
+# IDE / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
